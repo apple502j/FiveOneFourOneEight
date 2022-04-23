@@ -1,12 +1,14 @@
 {
   "required": true,
   "minVersion": "0.8",
-  "package": "net.fabricmc.example.mixin",
+  "package": "io.github.apple502j.fiveonefouroneeight.mixin",
   "compatibilityLevel": "JAVA_17",
   "mixins": [
   ],
   "client": [
-    "ExampleMixin"
+    "GameOptionsMixin",
+    "ValidatingIntSliderCallbacksMixin",
+    "DoubleSliderCallbacksMixin"
   ],
   "injectors": {
     "defaultRequire": 1

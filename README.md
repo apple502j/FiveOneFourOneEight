@@ -1,9 +1,2 @@
-# Fabric Example Mod
-
-## Setup
-
-For setup instructions please see the [fabric wiki page](https://fabricmc.net/wiki/tutorial:setup) that relates to the IDE that you are using.
-
-## License
-
-This template is available under the CC0 license. Feel free to learn from it and incorporate it in your own projects.
+# FiveOneFourOneEight
+Unfixes [MC-51418](https://bugs.mojang.com/browse/MC-51418), allowing options to be modified outside the in-game limit using `options.txt` again. Licensed under BSD-3-Clause.
