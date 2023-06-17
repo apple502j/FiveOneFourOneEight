@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
   "id": "fiveonefouroneeight",
-  "version": "${version}",
+  "version": "1.0.1",
 
   "name": "FiveOneFourOneEight",
   "description": "Allow changing option values outside the vanilla limit using options.txt",
@@ -22,7 +22,7 @@
   "accessWidener" : "fiveonefouroneeight.accesswidener",
   "depends": {
     "fabricloader": ">=0.14.0",
-    "minecraft": "1.19.x",
+    "minecraft": ">=1.19.0",
     "java": ">=17"
   }
 }
