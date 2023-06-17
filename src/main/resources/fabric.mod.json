@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
   "id": "fiveonefouroneeight",
-  "version": "${version}",
+  "version": "1.0.1",
 
   "name": "FiveOneFourOneEight",
   "description": "Allow changing option values outside the vanilla limit using options.txt",
